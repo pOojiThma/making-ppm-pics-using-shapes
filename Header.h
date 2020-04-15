@@ -1,12 +1,3 @@
-/*
-Ramneek Chhatwal
-rchhatw
-CPSC 1020 Sec 001, F18
-rchhatw@g.clemson.edu
-PA3 - FROSTY THE SNOWMAN'S BEACH ADVENTURE
-*/
-
-
 #ifndef HEADER_H
 #define HEADER_H
 #include <iostream>
