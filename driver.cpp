@@ -1,11 +1,3 @@
-/*
-Ramneek Chhatwal
-rchhatw
-CPSC 1020 Sec 001, F18
-rchhatw@g.clemson.edu
-PA3 - FROSTY THE SNOWMAN'S BEACH ADVENTURE
-*/
-
 #include "Shape.h"
 #include "Circle.h"
 #include "Color.h"
