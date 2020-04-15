@@ -1,12 +1,3 @@
-/*
-Ramneek Chhatwal
-rchhatw
-CPSC 1020 Sec 001, F18
-rchhatw@g.clemson.edu
-PA3 - FROSTY THE SNOWMAN'S BEACH ADVENTURE
-*/
-
-
 #include "Header.h"
 
 //default constructor to set header equal to a 400 x 400 P6 PPM equivalent
