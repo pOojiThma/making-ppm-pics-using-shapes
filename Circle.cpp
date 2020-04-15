@@ -1,4 +1,3 @@
-/*
 #include "Circle.h"
 
 //This is the default constructor
